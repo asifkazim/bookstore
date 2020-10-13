@@ -1,0 +1,49 @@
+
+nav {
+    width: 100%;
+    margin-top: 0!important;
+    margin: 15px 0;
+}
+
+.box {
+    border: 10px solid red;
+}
+
+hr{
+    border: none;
+    height: 1px;
+    color: #333;
+    background: #333;
+}
+
+.home-headline {
+    font-family: "Times New Roman",serif;
+    font-size: 24px;
+    color: #fff;
+    margin: auto;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.home-headline span{
+    background-color: #231F20 ;
+    padding: 5px 22px;
+}
+
+.section-headline {
+    font-family: "Times New Roman",serif;
+    font-size: 24px;
+    color: #fff;
+    margin: auto;
+    text-align: center;
+    margin-top: 90px;
+}
+
+.section-headline span{
+    background-color: #231F20 ;
+    padding: 5px 22px;
+}
+
+.notBorder{
+    border-top: none!important;
+}
